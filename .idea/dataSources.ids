@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails demolocationmassive: development" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="09828c9b-5558-495f-a85a-53dbbebfa380">
+    <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+    <jdbc-url>jdbc:mysql://127.0.0.1/demomassive_development</jdbc-url>
+    <user-name>root</user-name>
+    <user-password>dfe9dfcbdfd8dfc6dfc5dfd9df9adf9b</user-password>
+    <libraries>
+      <library>
+        <url>file://$USER_HOME$/Library/Preferences/RubyMine50/jdbc-drivers/mysql-connector-license.txt</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/Library/Preferences/RubyMine50/jdbc-drivers/mysql-connector-java-5.1.26-bin.jar</url>
+      </library>
+    </libraries>
+  </data-source>
+</component>
